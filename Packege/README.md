@@ -1,0 +1,1 @@
+The function except only 2 arguments. This is separator that separate elements in line and mode that equal "array" or "list". If mode = "array" function return list of list with separated elements, if mode = "list" it will return list of elements.
